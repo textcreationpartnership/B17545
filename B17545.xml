@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The bawds tryal and execution also, a short account of her whole life &amp; travels / written by Misomastropus.</title>
+            <author>Misomastropus.</author>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17545</idno><idno type="EEBO-CITATION">16206865</idno>
+  <idno type="VID">200456</idno>
+  <idno type="EEBO-PROQUEST">2240854166</idno>
+  
+            <idno type="STC">Wing B1166</idno>
+            <idno type="OCLC">16206865</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17545)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200456)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1087:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The bawds tryal and execution also, a short account of her whole life &amp; travels / written by Misomastropus.</title>
+                  <author>Misomastropus.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXIX [1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With allowance."</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prostitutes --  Anecdotes.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:200456:1"/>
+            <p>THE BAWDS TRYAL AND EXECUTION: ALSO, A short Account of her whole Life &amp; Travels.</p>
+            <p>Written by <hi>MISOMASTROPƲS.</hi>
+            </p>
+            <p>With ALLOWANCE.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>L. C.</hi> MDCLXXIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:200456:2"/>
+            <pb n="1" facs="tcp:200456:2"/>
+            <head>THE BAWDS TRYAL, AND EXECUTION,</head>
+            <p>AN unfortunate Soldier of <hi>Venus,</hi> retir'd out of hot service to a cool Shade to rest his wearied Body, and to curse the Bawd that sold him the <hi>French</hi> Commodity, (that vendible Disease) at so vast a rate; Passionately woo'd the Heavens to discharge a Volly of Thunder-bolts, or <hi>Sodom</hi> Fire-brands upon the compound of Leachery and Injustice; Or at least to let him live to see her die some Ignominious death. His Suit was half heard, for sleep (that is sometimes kind as well as cruel, that often grants the Lover those Satisfactions, which the Coy Dame denies, that lends the Begger Gold, and fills his empty Purse with imaginary Riches, that feasts the Epicure at night with Meats less surfeiting than those he eats by day, that often gets the Criminal a nights Reprieve, and sometimes gives the Sentence before the Judge has heard the Cause,) play'd the pretty Conjurer; and in a Dream, as in a Magick-glass, shew'd him that Fate that Heaven had designed the Perjured Bawd, that Sold him stinking Stock-Fish, and swore 'twas Ling.</p>
+            <p>The Scene was Princess <hi>Agnotes</hi> Court, whither this Pox-blasted Knight was carried on the wings of Fancy, to Dream the following Tragedy.</p>
+            <pb n="2" facs="tcp:200456:3"/>
+            <p>He Fancied that he lay in a strong Castle, whose Walls were proof against the Still Artillery of <hi>Venus</hi>'s Eyes, and <hi>Cupid</hi>'s Lascivious Shot, whose Torch that makes those different Climates, the torrid, temperate and the frigid <hi>Zones</hi> in Loves fantastick World, could not keep lighted in this cold Region. The place was guarded by the circu<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pect <hi>Cosmiarchus,</hi> and weary <hi>Aidos,</hi> and Victualled by the a<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st m<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <hi>So<g ref="char:EOLhyphen"/>phrosynarchus,</hi> with a sufficient plenty of <hi>Anchorites</hi> cold Wine, and <hi>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er<g ref="char:EOLhyphen"/>mits</hi> unbought Meats; (an admirable Antidote against the La<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ivious poyson) for it made all the Inhabitants <hi>Venus</hi>-proof, and kept that Animal the Body, free from all frollicking, or getting head of Reason, just in case to carry the Soul smoothly. Of such a temper above the rest, was the chief Judge of this Court <hi>Philagnotus,</hi> before whom (in a cost<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Dress, bought at the immense price of Soul and Honour,) stood the guilty Punk grown decrepit with her Crimes that hung more heavy on her head than the ponderous weight of Threescore Years. Her old Eye<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, (those loathsom snuffs of Lascivious lights) were sunk deep into the skonse, but still endeavoured to cast forth from the bottom of the socket an amorous glimmering, that ravished just as much as the twinkling Relique of an expireing Candle, that burns, but stinks, and smokes, and now and then glances a dull offensive light upon the Nauseating Beholders: Her Lips, which she ever made the Whetstones of her Lust were worn so thin with a multitude of sharpening Kisses, that they served no longer as a Screen to hide her rotten Teeth; for those Bone-Charcoles burnt almost to dust with the liquid Fire of hot Drinks, appeared through her Tissany Lips, as black as Night or her own <hi>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thiopian</hi> Soul: Her Skin was as rivel'd as a sheet of Parchment that had been too hastily dry'd after taking wet, which she endeavoured to put a Youth upon with the bor<g ref="char:EOLhyphen"/>row'd Complexion of a Paint; so her old Bones were cased with a new varnish cover, like the Skeleton of a decrepid Chair clad in a new Skin of Painted Leather: Old age like a Cold Winter, had drest her Head with a Hoary-Frost of Gray-Hairs, which made this Cynder'd lump of Lust look like the Burning <hi>Aetna,</hi> which in spight of his continual Flames has his Head Powder'd with a Cold Snow: Her Breath (the Venemous Vapour exhaled out of the Common-shore) infected so the Air, that a Toad could scarce live in it; 'twas too strong a Stench to proceed from a common Corruption, 'twas certainly her Ulcerated Soul that stunck through her Body to that rate, that the whole Assembly had Drunk up Poison through their Nostrills, had not the Infectious Exhalation been countermin'd by the Perfumed Breath of the fair <hi>Parthenia,</hi> her invete<g ref="char:EOLhyphen"/>rate enemy, who stood ready to accuse her to the Judge, and turn her inside out, that her hidden Crimes might appear to every Vulgar Eye. The very Person of that Chaste Virgin did plead against her, her Looks were Words; her Gestures, Arguments; her Modest Countenance, Si<g ref="char:EOLhyphen"/>lent Rethorick; that all accused her Lewdness to the Judge equally, as much as her Tongue, which thus decypher'd her.</p>
+            <pb n="3" facs="tcp:200456:3"/>
+            <p>My Lord (said she) to search into this wicked womans Life, is to Dive in a Jaques; To Paint her in her proper Colours, is to draw a Picture to be Scar'd with: Like some Timerous Painter, that with a lucky hand, Copies the Devil so well, that he Trembles at the Spirit which his Majestick Pencil rais'd; no less than a Young Conjurer at the unruly Fiend which his Charms summon'd into his Circle: Yet I cannot but think it just, that we rather suffer our own Stomach to be turn'd with stirring this Filth, than let Vice go without the grand punishment of being publish'd.</p>
+            <p>Before she had quite shaken off the womans Curb, (her Mo<g ref="char:EOLhyphen"/>desty,) she laboured to be wicked, never offended without a Con<g ref="char:EOLhyphen"/>tract: But when she had gazed away all shame with ungarded looks, and with a loose Tongue banish'd from her Face the blush which (where it ebs and flows) does keep our actions all in awe, and makes our hearts not dare to think a sin for fear of being discovered; that Writes us guilty in our Faces, speaks our Minds, truer then our Tongue, reviles our Actions, checks our Designs, rebukes our Thoughts, and makes us publish our own Ignominy to the World; And when we endeavour to conceal it, gives our Tongue the lye: when this was gone, she strain'd, and reach'd, to cast up all remorse, which for a time kept her Conscience in such a temper, that the Crimes she swallow'd now and then, rejolted; But when she had purg'd her self of that, she sinn'd at quiet, free from the clamorous Duns of Conscience. And then became as impudent as the Winds that Kiss all they meet, as lewd as a naked Statue that shews it self to all that will look upon it, as com<g ref="char:EOLhyphen"/>mon as the Earth her self, that will lye under any thing that will cast it self upon her. She daily sent out Lascivious Glances, Lewd Gestures, and Obscene Words to Forrage for her Lust, and bring her home some unwary Prey for that Breast-woolf; a Disease now grown almost incurable, to feed upon: She would make love unto a Bull, beg round the Town to sin, and Court all she met with to Damn her. Thus did she Tun in Luxury by full Bowls, but like to those that Drink off Frozen Liquors that so benum the Pallet, that after the third Swallow, they Taste no more, but still Drink on, because 'twas once a pleasure; for at last she sinn'd past all Delight, and then play'd the Glutton that Eats, when Eating is a Torment; and thinking on't a Pain. By this time she had out-done <hi>Sodom</hi> and <hi>Gomorrha;</hi> so that there was nothing left to Rival her but Hell, and that too you would think she emulated, when you look upon the wickedness of her later Years, which did out<g ref="char:EOLhyphen"/>do her former Actions, as much as those, the Crimes of other Mortals. For when old Age had made her Loathsom to man, even in the hottest Feaver-fit of Lust, or Extasie of Wine and her Jaded Body tir'd under her, and left her to the dry delight of wishes and desires; she sat her down to a nasty Feast, to Chew the Cud, and Feed on Meats she had already Eat, but brought up again with a ruminating reach of Fancy to Chew over the second time. Thus would she sit, and sin her whole life over a Thought, double all her Crimes in an Hour, by committing
+<pb n="4" facs="tcp:200456:4"/>them once more by an unrepenting Commemoration; and with the force of Fancy, as with an Alembick, Distill all her wickedness into one Fulsom drop, and so Drink the extract of Epitomiz'd evils, which was scarce strong enough for her Monstrous Stomach. Thinking was an empty Pleasure, and Acting was not in her power: So, as if she had not done enough, she kept others to be wicked for her, enjoying their Crimes, sinning their sins, and now Magnificiently offending, for she lay with all the Lechers of the Town by Proxy. Thus she became Soli<g ref="char:EOLhyphen"/>citress to Hell, and Factress for the Devil, doing his business in making up Adulterous Matches, joyning Lecherous hands, cheating Virgins of their Purity, causing Duells, Divorcing Friends, and Enticing in unwary Maids with her decoying Prostitutes, that she sent out to all the pub<g ref="char:EOLhyphen"/>lick Walks of the Town. So now she had set up Shop and Traffi<g ref="char:EOLhyphen"/>qu'd publickly in sin, so well furnish'd with the Merchandize of Hell, that there was no possibility of being Chaste (as formerly) for want of opportunity. For she Retail'd out Vice and Wickedness, and set so high a Price on Evil, that made her wretched Chapmen (O Damnable Imposition!) pay for their own Damnation, Buy Hell at a vast Rate, and give their whole Fortunes to go to the Devil.</p>
+            <p>Here Chaste <hi>Parthenia</hi> made a little Pause to take Breath, and would have gone on with her vigorous Accusation, had she not seen Sir <hi>Cully Bubble</hi> Impatient to crowd in his sad Story.</p>
+            <p>The poor Spung'd Knight rested upon a pair of weak props, Hams so limber that at every third word they let his Body fall almost half way to the ground, which he still endeavoured to raise again with all the strength he had; so that he stood Courtesying before the Judge like a Water-Wagtail, only that he did not rise with so Vigorous a Spring: He was so Lean and Thin, that you might almost see his Soul through his Body; his Pate as Bald as a Brass Bullet, his Eyes withdrawn so far within his Head, that they seem'd retir'd to the other side to look out behind: His Blood all spent in his Mistresses service, his Cheeks so Thin, that you might see the one through the other; and his whole Body in no better Case than a Skeleton, only that it had a Skin. Poor man he look'd like some tir'd Jade hard Work'd all day, and Rid out every night by a Malitious Hagg upon her wicked Rambles, almost to Hell and back again: He was so weak, that he had scarce strength to move his Tongue, nor had he Breath enough to speak, but was <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to Puff and Blow, and Sigh out his Accusations like a hard Bagpipe; which, when the Wind does fail it, speaks no more its Musick Lan<g ref="char:EOLhyphen"/>guage, but ends its Tune in a gentle whisper: At last a Lowd blast of Sighs, the constant Harbengers of Complaint and Grief usher'd in his Lamentable Tale.</p>
+            <p>For me but to appear, cry'd he, is little less than Evidence: I have brought in more than half an Accusation, by shewing the ruines of a Manly Fabrick, brought to this decay by that wicked Womans unjust practices, that destroy as quick as Thunder, and as sure as Time. 'Twas that Sorceress that first stript me of the Man, and put me on the Beast,
+<pb n="5" facs="tcp:200456:4"/>transforming me with the Charms of Lust, and Magick power of Wine, into a Creature worse than Irrational; and then I serv'd like one of <hi>Circe</hi>'s Suiters, if not in all Forms, at least contracting the nu<g ref="char:EOLhyphen"/>merous Species of all Beasts into that grand one of <hi>Besotted Man.</hi> When she would Rob me, (as she ever did when I had any thing to lose) she found a way to do it as undiscoverably, as if she had wore <hi>Gyges</hi> his Ring: for when she had Rock'd me in her Lascivious Arms into a Lethargy of sin, or transported me into an extasie of Lecherous Love, she would Rifle my Pockets, and Plunder my Fingers, with as little danger of being felt, as one that steals Bracelets from the Arms of some Heathens Marble Goddess, or robs the Spulchres of the Dead to pull off Rings from the Cold Fingers of a senseless Carcass: She would make me Drunk to promise half my Fortune, and then Drunk again ro perform my promise: So great a Thief that she stole even that, that was given her; for he that does receive what a Drunkard gives, steals what he receives. She would promise with a Thousand Oaths to get me untouch'd Rose-Buds, which not so much as the innocent Bee had ever Deflowr'd, or <hi>Eunuch Drone</hi> rob'd of their Virgin Sweetness; nor scarce the curious Sun ever cast a glance on; and then give me the Nasty Carcass of some stinking Flower, wither'd with Old-Age, cast off by the Vulgar, and thrown aside to Rot. Thus damning her Soul thrice in one Act with a <hi>Lye, Fraud</hi> and <hi>Perjury:</hi> She would bind her self in a bond of her Salvation and Eternity, to bring me to an <hi>Elisium,</hi> more sweet and ravishing than the Fancy of the Poets could make theirs; and then like a malicious Punk lead me into a Bog more stinking than the Lake <hi>Avernus,</hi> which with the pestiferous Vapours it sends up, Shoots down the Birds that fly over it. She was so great a Thief, that she loved the Theft better than she did the Money, and so knowing in the Science, that one hand would Steal from the other: So great a Lyer, that she suspected what her own Heart told her: So apt to detract from all she heard well spoken of, that if you told her God was pure, she would Blaspheme to contradict it: So Faithless and so Fickle, that you might fear she would prove unconstant even in Self-love, and hate her self, to hate all mankind: So great a Drunkard, that she was come to Drink Wine like Air, and was never less Drunk than when she was a Brimmer; like a Sack-butt, that takes in its Liquor kindly; and when it's full, stands steadiest, aptest to reel when its empty.</p>
+            <p>Here Sir <hi>Cully</hi> had run himself off his Wind, which he could no more <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> than a pair of crack't Bellows, which with some trouble you <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> make fetch Breath thick and short; but never gather Wind enough to do your business.</p>
+            <p>
+               <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lewd Criminal stood all this time in a confus'd posture, half <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> before the Sentence in having her Crimes thus publisht. She endeavour'd to make some weak reply, and gaped twice to speak, but her words cleaved to the Roof of her Mouth, loth to come out for to be Hist at; and her Tongue was asham'd to speak the Lyes her Heart suggested: So she had been quite Mute, had not the banisht Blush,
+<pb n="6" facs="tcp:200456:5"/>that never appeared in her Face since Vice had Brass-gilt it over with Impudence, rose in Judgment against her, and in spight of her Silence, made her whole Countenance cry Guilty. Whereupon, (as such) the Judge justly Condemn'd her, and thus gave Sentence.</p>
+            <p>That Body of thine ripen'd with the heat of Lust, shall now begin to Rot, and leave the World not as it came in, altogether, but creep unto its ruine, Limb after Limb, that thou mayest feel the killing pangs of Dissolution in every Artery, and suffer a general slaughter in one single body, by being Murther'd in each Member: Thou shalt not Drink thy Death all at a Draught, but let it down drop by drop, that thou mayest Taste thy punishment; For 'tis not to dye, but to be dying, that makes death a Torment.</p>
+            <p>Pursuant to this Sentence, the great Executioner of this Court, <hi>Astraea,</hi> hurri'd her away, already infected with the contagious Disease that began to spread over her whole body, faster than a Water-Circle over the surface of a dead Pool, and Eat more Hungrely than <hi>Aqua<g ref="char:EOLhyphen"/>fortis,</hi> destroying all the way it went, and leaving nothing behind it but Putrefaction: Her Nose began presently to creep off her Face up<g ref="char:EOLhyphen"/>on the backs of Maggots, her Legs walk'd from under her, her Eyes (those once foolish Lovers Planets) became falling Stars, and dropt from their Orbs, lay like filthy Jelly upon the ground; her Lips, so often Nick-named <hi>Cherries,</hi> rotted off the Tree: The Roses of her Cheeks (long since faded and decay'd,) began now to Putrify; her Tongue and Teeth were blown out of her Mouth with her vehement Sighs, and her Flesh fell from her Bones all round her, like melting Snow from the Boughs of an over burthen'd Tree, and as it dropt, (imitating the original of <hi>Scotch</hi> Barnacles,) became Vermine, and run away from her, lothing the Monstrous Soul from whom 'twas got loose. So have I seen a Carrion when 'twas grown too course a dish for Ra<g ref="char:EOLhyphen"/>vens, and too stinking Diet for the hungriest Curs of the Town, lye and rot away into Magotts, and then walk about the Field into ano<g ref="char:EOLhyphen"/>ther shape, and haunt the place where it lay in other forms.</p>
+            <p>When the poor Gentleman, that lay all this time Dreaming, saw the Bawd fall asunder, he burst forth into Acclamation of Joy, and with Noise waked himself, and so undid the Spell that sleep had made; at which all vanisht like an Inchanted Castle when the Charms are ended, or a Magick Vision, which disappears at the first word that is spoke, contrary to the Covenant of the Conjurer. The poor man waked, little better satisfi'd than the Glutton with the Feast, or Miser with the Gold he Dream'd on, or Lover with the Empty Embraces a Kind and Courteous Sleep bestow'd upon him. But reflecting how clearly all things were represented; how true the Accusation, how just the Punishment, he fancied 'twas something more than a Dream, and so concluded when he consider'd, that Sleep was sometimes Prophe<g ref="char:EOLhyphen"/>tick as well as Fabulous, and had its true Visions, as well as Phantoms.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
